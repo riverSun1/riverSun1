@@ -15,14 +15,14 @@
 <img src="https://img.shields.io/badge/MicroPython-2B2728?style=flat-square&logo=MicroPython&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
-<br/><br/>
+<br/>
 
 # 📊 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=riverSun1&custom_title=riverSun1's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Minseo's Github Activity Graph" width="100%">
 </div>
 
-<br/><br/>
+<br/>
 
 # 📕 Studied List 📚
 
