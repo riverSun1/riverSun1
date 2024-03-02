@@ -3,6 +3,9 @@
 <!--![riverSun1](https://github-readme-stats.vercel.app/api?username=riverSun1&show_icons=true&theme=dracula)-->
 <!--![riverSun1](https://github-readme-stats.vercel.app/api?username=riverSun1&show_icons=true)-->
 
+# 🔋 Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riverSun1)](https://github.com/riverSun1/github-readme-stats)
+<br><br>
 
 # 🛠 Tech stack 🛠
 
