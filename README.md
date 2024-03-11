@@ -2,6 +2,7 @@
 
 <!--![riverSun1](https://github-readme-stats.vercel.app/api?username=riverSun1&show_icons=true&theme=dracula)-->
 <!--![riverSun1](https://github-readme-stats.vercel.app/api?username=riverSun1&show_icons=true)-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=600&size=60&duration=2500&pause=3000&color=499CEB&center=true&vCenter=true&width=1000&height=120&lines=🎈Welcome+to+Sun1's+Github!🎈)](https://git.io/typing-svg)
 
 # 🔋 Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riverSun1)](https://github.com/riverSun1/github-readme-stats)
