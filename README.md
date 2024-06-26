@@ -37,6 +37,8 @@
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android-green?style=for-the-badge&logo=Android&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
+<img src="https://shields.io/badge/BeautifulSoup-4-green?style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/selenium-222?style=for-the-badge&logo=selenium"/></a>
 <img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=MicroPython&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
