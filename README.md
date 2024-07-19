@@ -3,15 +3,20 @@
 <!--![riverSun1](https://github-readme-stats.vercel.app/api?username=riverSun1&show_icons=true&theme=dracula)-->
 <!--![riverSun1](https://github-readme-stats.vercel.app/api?username=riverSun1&show_icons=true)-->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=600&size=60&duration=2500&pause=3000&color=499CEB&center=true&vCenter=true&width=1000&height=120&lines=🎈Welcome+to+Sun1's+Github!🎈)](https://git.io/typing-svg)
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/f2699ead-7bd2-42d7-abf4-04d4855cfe03" width="460" height="250" alt="Image">
+    </td>
+    <td>
+      <a href="https://github.com/devxb/gitanimals">
+        <img src="https://render.gitanimals.org/farms/riverSun1" width="500" height="250" alt="Gitanimals">
+      </a>
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/riverSun1"
-  width="1000"
-  height="250"
-/>
-</a>
-<br><br>
+<br>
 
 ## 🛠 Tech stack 🛠
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
