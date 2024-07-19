@@ -6,7 +6,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/f2699ead-7bd2-42d7-abf4-04d4855cfe03" width="460" height="250" alt="Image">
+      <img src="https://github.com/user-attachments/assets/f2699ead-7bd2-42d7-abf4-04d4855cfe03" width="400" alt="Image">
     </td>
     <td>
       <a href="https://github.com/devxb/gitanimals">
