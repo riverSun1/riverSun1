@@ -51,6 +51,7 @@
 <img src="https://img.shields.io/badge/slack-633d68?style=for-the-badge&logo=slack&logoColor=white">
 <img src="https://img.shields.io/badge/notion-eeeeee?style=for-the-badge&logo=notion&logoColor=black">
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />
 <br><br>
 
 ## 🔋 Github Stats & 📊 Activity Graph
