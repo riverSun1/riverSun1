@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Zustand-ecb63e?style=for-the-badge&logo=zustand"/></a>
 <img src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=for-the-badge"/></a>
-<img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Tanstack%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/></a>
@@ -45,6 +45,10 @@
 <img src="https://shields.io/badge/BeautifulSoup-4-green?style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/selenium-222?style=for-the-badge&logo=selenium"/></a>
 <img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=MicroPython&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
+<img src="https://img.shields.io/badge/slack-633d68?style=for-the-badge&logo=slack&logoColor=white">
+<img src="https://img.shields.io/badge/notion-eeeeee?style=for-the-badge&logo=notion&logoColor=black">
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/></a>
 <br><br>
 
