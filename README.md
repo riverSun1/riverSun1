@@ -46,6 +46,10 @@
 <img src="https://shields.io/badge/BeautifulSoup-4-green?style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/selenium-222?style=for-the-badge&logo=selenium"/></a>
 <img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=MicroPython&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
+<img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white">
+<img src="https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 <img src="https://img.shields.io/badge/slack-633d68?style=for-the-badge&logo=slack&logoColor=white">
