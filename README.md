@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android-green?style=for-the-badge&logo=Android&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=FEDF04"/></a>
 <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
 <img src="https://shields.io/badge/BeautifulSoup-4-green?style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/selenium-222?style=for-the-badge&logo=selenium"/></a>
