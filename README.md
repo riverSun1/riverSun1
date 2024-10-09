@@ -27,6 +27,7 @@
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Context--Api-00b6ff?style=for-the-badge&logo=react&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Zustand-ecb63e?style=for-the-badge&logo=zustand"/></a>
 <img src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=for-the-badge"/></a>
@@ -60,14 +61,16 @@
 <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />
 <br><br>
 
-## 🔋 Github Stats & 📊 Activity Graph
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riverSun1)](https://github.com/riverSun1/github-readme-stats)-->
-<div style="display: flex; flex-wrap: nowrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=riverSun1&show_icons=true&theme=radical" alt="Sun1's GitHub stats" width="45%">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riverSun1&custom_title=riverSun1's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Sun1's Github Activity Graph" width="54%">
-</div>
+<!--## 🔋 Github Stats & 📊 Activity Graph
+<!--<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riverSun1)](https://github.com/riverSun1/github-readme-stats)-->
+<!--<div style="display: flex; flex-wrap: nowrap;">
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riverSun1&layout=compact&theme=dark"  height="170px" />
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=riverSun1&show_icons=true&theme=dark" alt="Sun1's GitHub stats" width="45%">
+  <!--<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riverSun1&theme=dark" alt="Sun1's GitHub stats" width="45%">
+  <!--<!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=riverSun1&custom_title=riverSun1's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Sun1's Github Activity Graph" width="54%">-->
+<!--</div>
 <!--## 📊 Activity Graph-->
-<br>
+<!--<br>-->
 
 ## 📕 Studied List 📚
 <table>
