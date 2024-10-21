@@ -19,6 +19,7 @@
 <br>
 
 ## 🛠 Tech stack 🛠
+### 🖥️ Front-end
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=2B2728"/></a>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
@@ -33,35 +34,55 @@
 <img src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/Tanstack%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-netlify-blue?style=for-the-badge&logo=netlify&logoColor=green"/></a>
-<img src="https://shields.io/badge/-OpenAI-93f6ef?style=for-the-badge&logo=openai&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus"/></a>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Android-green?style=for-the-badge&logo=Android&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=FEDF04"/></a>
-<img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/selenium-222?style=for-the-badge&logo=selenium"/></a>
-<img src="https://shields.io/badge/BeautifulSoup-4-green?style=for-the-badge"/></a>
-<img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=MicroPython&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"></a>
 <img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"></a>
-<img src="https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black"></a>
-<img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+
+### 💻 Back-end
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Express.js-373737?style=for-the-badge&logo=express&logoColor=fff"/></a>
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/></a>
+<img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TypeORM-informational?style=for-the-badge&logo=typeorm&logoColor=white&color=DD1100"></a>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=DBeaver&color=382923&logo=DBeaver&logoColor=FFFFFF&label="></a>
 <img src="https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white"></a>
-<img src="https://img.shields.io/badge/Bitbucket-white?style=for-the-badge&logo=Bitbucket&logoColor=blue"></a>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/></a>
+
+### 💻 Programming Languages
+<img src="https://img.shields.io/badge/Java-purple?style=for-the-badge&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Android-green?style=for-the-badge&logo=Android&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=MicroPython&logoColor=white"/></a>
+
+### 🔧 Tools
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Visual studio-purple?style=for-the-badge&logo=VisualStudio&logoColor=white"></a>
+<img src="https://img.shields.io/badge/PyCharm-green?style=for-the-badge&logo=PyCharm&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Intellij%20Idea-DD1100?logo=intellij-idea&style=for-the-badge"></a>
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-white?style=for-the-badge&logo=Jira&logoColor=blue"></a>
 <img src="https://img.shields.io/badge/slack-633d68?style=for-the-badge&logo=slack&logoColor=white"></a>
 <img src="https://img.shields.io/badge/notion-eeeeee?style=for-the-badge&logo=notion&logoColor=black"></a>
+<img src="https://shields.io/badge/-OpenAI-93f6ef?style=for-the-badge&logo=openai&logoColor=white"/></a>
+
+### 🧪 Testing/Automation
+<img src="https://img.shields.io/badge/selenium-222?style=for-the-badge&logo=selenium"/></a>
+<img src="https://shields.io/badge/BeautifulSoup-4-green?style=for-the-badge"/></a>
+
+### 🛸 Deployment
+<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-netlify-blue?style=for-the-badge&logo=netlify&logoColor=green"/></a>
+
+### ⚙ SCM
+<img src="https://img.shields.io/badge/Bitbucket-white?style=for-the-badge&logo=Bitbucket&logoColor=blue"/></a>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+
+### 🎨 Design
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff"/></a>
 <!--<img src="https://img.shields.io/badge/Code-TypeORM-informational?style=for-the-badge&logo=typeorm&logoColor=white&labelColor=121212&color=DD1100">-->
