@@ -127,3 +127,6 @@
     <td><img src="https://github.com/user-attachments/assets/ccb15537-57a6-4cb3-a761-abf93c10edb2" width="200"></td>
   </tr>
 </table>
+<br><br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FriverSun1%2Fhit-counter&count_bg=%23434343&title_bg=%23F725FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)                           
