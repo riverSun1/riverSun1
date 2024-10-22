@@ -3,6 +3,7 @@
 <!--![riverSun1](https://github-readme-stats.vercel.app/api?username=riverSun1&show_icons=true&theme=dracula)-->
 <!--![riverSun1](https://github-readme-stats.vercel.app/api?username=riverSun1&show_icons=true)-->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=600&size=60&duration=2500&pause=3000&color=499CEB&center=true&vCenter=true&width=1000&height=120&lines=🎈Welcome+to+Sun1's+Github!🎈)](https://git.io/typing-svg)
+
 <table align="center">
   <tr>
     <td>
@@ -15,6 +16,8 @@
     </td>
   </tr>
 </table>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FriverSun1%2Fhit-counter&count_bg=%23434343&title_bg=%23F725FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com) 
 
 <br>
 
@@ -126,7 +129,4 @@
     <td><img src="https://github.com/user-attachments/assets/965c23d1-050a-45b1-92e2-5d84c3b3d17a" width="200"></td>
     <td><img src="https://github.com/user-attachments/assets/ccb15537-57a6-4cb3-a761-abf93c10edb2" width="200"></td>
   </tr>
-</table>
-<br><br>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FriverSun1%2Fhit-counter&count_bg=%23434343&title_bg=%23F725FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)                           
+</table>                        
