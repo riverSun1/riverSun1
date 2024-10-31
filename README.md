@@ -91,7 +91,7 @@
 <!--<img src="https://img.shields.io/badge/Code-TypeORM-informational?style=for-the-badge&logo=typeorm&logoColor=white&labelColor=121212&color=DD1100">-->
 <br><br>
 
-<!--## 🔋 Github Stats & 📊 Activity Graph
+<!--## 🔋 Github Stats
 <!--<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riverSun1)](https://github.com/riverSun1/github-readme-stats)-->
 <!--<div style="display: flex; flex-wrap: nowrap;">
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riverSun1&layout=compact&theme=dark"  height="170px" />
