@@ -38,6 +38,7 @@
 <img src="https://img.shields.io/badge/Tanstack%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Three.js-white?style=for-the-badge&logo=three.js&logoColor=000000"/></a>
 <img src="https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"></a>
