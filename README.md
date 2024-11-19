@@ -46,6 +46,7 @@
 
 ### 💻 Back-end
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Express.js-373737?style=for-the-badge&logo=express&logoColor=fff"/></a>
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/></a>
 <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
@@ -53,9 +54,9 @@
 <img src="https://img.shields.io/badge/TypeORM-informational?style=for-the-badge&logo=typeorm&logoColor=white&color=DD1100"></a>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=DBeaver&color=382923&logo=DBeaver&logoColor=FFFFFF&label="></a>
 <img src="https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white"></a>
-<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"></a>
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"></a>
 
 ### ⛳ Programming Languages
 <img src="https://img.shields.io/badge/Java-purple?style=for-the-badge&logo=Java&logoColor=white"/></a>
