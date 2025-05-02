@@ -17,7 +17,7 @@
   </tr>
 </table>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FriverSun1%2Fhit-counter&count_bg=%23434343&title_bg=%23F725FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com) 
+<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FriverSun1%2Fhit-counter&count_bg=%23434343&title_bg=%23F725FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com) -->
 
 <br>
 
