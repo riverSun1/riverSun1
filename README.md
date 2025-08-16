@@ -60,8 +60,11 @@
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/></a>
 
-### 🤖 Cross-platform framework
+### 🥏 Cross-platform framework
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
+
+### 🤖 AI
+<img src="https://img.shields.io/badge/-YOLO-FFCC00?style=for-the-badge&logo=python&logoColor=white"></a>
 
 ### ⛳ Programming Languages
 <img src="https://img.shields.io/badge/Java-purple?style=for-the-badge&logo=Java&logoColor=white"/></a>
