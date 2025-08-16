@@ -52,6 +52,7 @@
 <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Express.js-373737?style=for-the-badge&logo=express&logoColor=fff"/></a>
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/></a>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TypeORM-informational?style=for-the-badge&logo=typeorm&logoColor=white&color=DD1100"></a>
