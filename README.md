@@ -54,7 +54,7 @@
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/></a>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></a>
+<!-- <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></a> -->
 <img src="https://img.shields.io/badge/TypeORM-informational?style=for-the-badge&logo=typeorm&logoColor=white&color=DD1100"></a>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=DBeaver&color=382923&logo=DBeaver&logoColor=FFFFFF&label="></a>
 <img src="https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white"></a>
