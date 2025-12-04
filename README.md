@@ -10,6 +10,9 @@
       <img src="https://github.com/user-attachments/assets/5aedaf4b-31d4-4488-a3cb-63b3de90001d" width="500" alt="Image">
     </td>
     <td>
+        <img src="https://github.com/user-attachments/assets/365842a4-66d9-45ce-a7bb-53177c8d6c13" width="485" alt="Image">
+    </td>
+    <td>
       <a href="https://github.com/devxb/gitanimals">
         <img src="https://render.gitanimals.org/farms/riverSun1" width="500" height="250" alt="Gitanimals">
       </a>
