@@ -69,6 +69,7 @@
 
 ### 🤖 AI
 <img src="https://img.shields.io/badge/-YOLO-FFCC00?style=for-the-badge&logo=python&logoColor=white"></a>
+<img src="https://img.shields.io/badge/LangChain-ffffff?style=for-the-badge&logo=langchain&logoColor=green"></a>
 
 ### ⛳ Programming Languages
 <img src="https://img.shields.io/badge/Java-purple?style=for-the-badge&logo=Java&logoColor=white"/></a>
