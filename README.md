@@ -64,20 +64,26 @@
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/></a>
 <!-- <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></a> -->
 
+<!-- ### 🤖 AI -->
+<!-- <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white" /></a> -->
+<!-- <img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /></a> -->
+<!-- <img src="https://img.shields.io/badge/LangChain-ffffff?style=for-the-badge&logo=langchain&logoColor=green"></a> -->
+
+### 👁️ Computer Vision
+<img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
+
+### 🧪 Automation
+<img src="https://img.shields.io/badge/selenium-222?style=for-the-badge&logo=selenium"/></a>
+<img src="https://shields.io/badge/BeautifulSoup-4-green?style=for-the-badge"/></a>
+
 ### 🥏 Cross-platform framework
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
 
-### 🤖 AI
-<img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/LangChain-ffffff?style=for-the-badge&logo=langchain&logoColor=green"></a>
-
-### ⛳ Programming Languages
-<img src="https://img.shields.io/badge/Java-purple?style=for-the-badge&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Android-green?style=for-the-badge&logo=Android&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus"/></a>
-<img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=MicroPython&logoColor=white"/></a>
+### 💭 AWS
+<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
 
 ### 🔧 Tools
 <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /></a>
@@ -96,13 +102,12 @@
 <img src="https://img.shields.io/badge/notion-eeeeee?style=for-the-badge&logo=notion&logoColor=black"></a>
 <!-- <img src="https://shields.io/badge/-OpenAI-93f6ef?style=for-the-badge&logo=openai&logoColor=white"/></a> -->
 
-### 🧪 Testing/Automation
-<img src="https://img.shields.io/badge/selenium-222?style=for-the-badge&logo=selenium"/></a>
-<img src="https://shields.io/badge/BeautifulSoup-4-green?style=for-the-badge"/></a>
-
-### 💭 AWS
-<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
+### ⛳ Programming Languages
+<img src="https://img.shields.io/badge/Java-purple?style=for-the-badge&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Android-green?style=for-the-badge&logo=Android&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=MicroPython&logoColor=white"/></a>
 
 ### 🛸 Deployment
 <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
